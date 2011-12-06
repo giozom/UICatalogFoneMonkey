@@ -141,82 +141,82 @@
 		ACA995A2148ECC9C001F8B52 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
 		ACA995A3148ECC9C001F8B52 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
 		ACA995A4148ECC9C001F8B52 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D3623EB0D0F72F000981E51 /* CoreGraphics.framework */; };
-		ACA99600148ECCE9001F8B52 /* iphonesim in Resources */ = {isa = PBXBuildFile; fileRef = ACA995AD148ECCE9001F8B52 /* iphonesim */; };
-		ACA99601148ECCE9001F8B52 /* COPYRIGHT in Resources */ = {isa = PBXBuildFile; fileRef = ACA995AE148ECCE9001F8B52 /* COPYRIGHT */; };
-		ACA99602148ECCE9001F8B52 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = ACA995B0148ECCE9001F8B52 /* index.html */; };
-		ACA99603148ECCE9001F8B52 /* extralibs.zip in Resources */ = {isa = PBXBuildFile; fileRef = ACA995B1148ECCE9001F8B52 /* extralibs.zip */; };
-		ACA99604148ECCE9001F8B52 /* FoneMonkeyRunner.plist in Resources */ = {isa = PBXBuildFile; fileRef = ACA995B2148ECCE9001F8B52 /* FoneMonkeyRunner.plist */; };
-		ACA99605148ECCE9001F8B52 /* libFoneMonkey.5.5b.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ACA995BB148ECCE9001F8B52 /* libFoneMonkey.5.5b.a */; };
-		ACA99606148ECCE9001F8B52 /* libFoneMonkeyOCUnit.5.5b.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ACA995BC148ECCE9001F8B52 /* libFoneMonkeyOCUnit.5.5b.a */; };
-		ACA99607148ECCE9001F8B52 /* ReleaseNotes.html in Resources */ = {isa = PBXBuildFile; fileRef = ACA995BD148ECCE9001F8B52 /* ReleaseNotes.html */; };
-		ACA99608148ECCE9001F8B52 /* FMClear.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995BF148ECCE9001F8B52 /* FMClear.png */; };
-		ACA99609148ECCE9001F8B52 /* FMCommand.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995C0148ECCE9001F8B52 /* FMCommand.png */; };
-		ACA9960A148ECCE9001F8B52 /* FMCommandEditViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACA995C1148ECCE9001F8B52 /* FMCommandEditViewController_iPad.xib */; };
-		ACA9960B148ECCE9001F8B52 /* FMCommandEditViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACA995C2148ECCE9001F8B52 /* FMCommandEditViewController_iPhone.xib */; };
-		ACA9960C148ECCE9001F8B52 /* FMConsoleController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACA995C3148ECCE9001F8B52 /* FMConsoleController_iPad.xib */; };
-		ACA9960D148ECCE9001F8B52 /* FMConsoleController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACA995C4148ECCE9001F8B52 /* FMConsoleController_iPhone.xib */; };
-		ACA9960E148ECCE9001F8B52 /* FMDataDrive.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995C5148ECCE9001F8B52 /* FMDataDrive.png */; };
-		ACA9960F148ECCE9001F8B52 /* FMDelete.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995C6148ECCE9001F8B52 /* FMDelete.png */; };
-		ACA99610148ECCE9001F8B52 /* FMEdit.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995C7148ECCE9001F8B52 /* FMEdit.png */; };
-		ACA99611148ECCE9001F8B52 /* FMGetVariable.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995C8148ECCE9001F8B52 /* FMGetVariable.png */; };
-		ACA99612148ECCE9001F8B52 /* FMGorilla_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACA995C9148ECCE9001F8B52 /* FMGorilla_iPad.xib */; };
-		ACA99613148ECCE9001F8B52 /* FMGorilla_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACA995CA148ECCE9001F8B52 /* FMGorilla_iPhone.xib */; };
-		ACA99614148ECCE9001F8B52 /* FMGorillaView_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACA995CB148ECCE9001F8B52 /* FMGorillaView_iPad.xib */; };
-		ACA99615148ECCE9001F8B52 /* FMGorillaView_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACA995CC148ECCE9001F8B52 /* FMGorillaView_iPhone.xib */; };
-		ACA99616148ECCE9001F8B52 /* FMInputText.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995CD148ECCE9001F8B52 /* FMInputText.png */; };
-		ACA99617148ECCE9001F8B52 /* FMObjConnect.html in Resources */ = {isa = PBXBuildFile; fileRef = ACA995CE148ECCE9001F8B52 /* FMObjConnect.html */; };
-		ACA99618148ECCE9001F8B52 /* FMObjConnect.jslib in Resources */ = {isa = PBXBuildFile; fileRef = ACA995CF148ECCE9001F8B52 /* FMObjConnect.jslib */; };
-		ACA99619148ECCE9001F8B52 /* FMOpenScriptDialog_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACA995D0148ECCE9001F8B52 /* FMOpenScriptDialog_iPad.xib */; };
-		ACA9961A148ECCE9001F8B52 /* FMOpenScriptDialog_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACA995D1148ECCE9001F8B52 /* FMOpenScriptDialog_iPhone.xib */; };
-		ACA9961B148ECCE9001F8B52 /* FMPauseMovie.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995D2148ECCE9001F8B52 /* FMPauseMovie.png */; };
-		ACA9961C148ECCE9001F8B52 /* FMPlayMovie.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995D3148ECCE9001F8B52 /* FMPlayMovie.png */; };
-		ACA9961D148ECCE9001F8B52 /* FMQunitAPI.jslib in Resources */ = {isa = PBXBuildFile; fileRef = ACA995D4148ECCE9001F8B52 /* FMQunitAPI.jslib */; };
-		ACA9961E148ECCE9001F8B52 /* FMReturn.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995D5148ECCE9001F8B52 /* FMReturn.png */; };
-		ACA9961F148ECCE9001F8B52 /* FMRotate.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995D6148ECCE9001F8B52 /* FMRotate.png */; };
-		ACA99620148ECCE9001F8B52 /* FMSaveScriptDialog_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACA995D7148ECCE9001F8B52 /* FMSaveScriptDialog_iPad.xib */; };
-		ACA99621148ECCE9001F8B52 /* FMSaveScriptDialog_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACA995D8148ECCE9001F8B52 /* FMSaveScriptDialog_iPhone.xib */; };
-		ACA99622148ECCE9001F8B52 /* FMTouch.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995D9148ECCE9001F8B52 /* FMTouch.png */; };
-		ACA99623148ECCE9001F8B52 /* FMWebDriver.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995DA148ECCE9001F8B52 /* FMWebDriver.png */; };
-		ACA99624148ECCE9001F8B52 /* FoneMonkey.jslib in Resources */ = {isa = PBXBuildFile; fileRef = ACA995DB148ECCE9001F8B52 /* FoneMonkey.jslib */; };
-		ACA99625148ECCE9001F8B52 /* gorilla-32.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995DC148ECCE9001F8B52 /* gorilla-32.png */; };
-		ACA99626148ECCE9001F8B52 /* gorillalogic.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995DD148ECCE9001F8B52 /* gorillalogic.png */; };
-		ACA99627148ECCE9001F8B52 /* icon_arrow_down.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995DE148ECCE9001F8B52 /* icon_arrow_down.png */; };
-		ACA99628148ECCE9001F8B52 /* icon_arrow_up.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995DF148ECCE9001F8B52 /* icon_arrow_up.png */; };
-		ACA99629148ECCE9001F8B52 /* icon_controls_3.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995E0148ECCE9001F8B52 /* icon_controls_3.png */; };
-		ACA9962A148ECCE9001F8B52 /* icon_controls_4.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995E1148ECCE9001F8B52 /* icon_controls_4.png */; };
-		ACA9962B148ECCE9001F8B52 /* icon_filming.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995E2148ECCE9001F8B52 /* icon_filming.png */; };
-		ACA9962C148ECCE9001F8B52 /* icon_script.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995E3148ECCE9001F8B52 /* icon_script.png */; };
-		ACA9962D148ECCE9001F8B52 /* icon_timer.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995E4148ECCE9001F8B52 /* icon_timer.png */; };
-		ACA9962E148ECCE9001F8B52 /* jquery-latest.jslib in Resources */ = {isa = PBXBuildFile; fileRef = ACA995E5148ECCE9001F8B52 /* jquery-latest.jslib */; };
-		ACA9962F148ECCE9001F8B52 /* Move.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995E6148ECCE9001F8B52 /* Move.png */; };
-		ACA99630148ECCE9001F8B52 /* objc.template in Resources */ = {isa = PBXBuildFile; fileRef = ACA995E7148ECCE9001F8B52 /* objc.template */; };
-		ACA99631148ECCE9001F8B52 /* optionsBg.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995E8148ECCE9001F8B52 /* optionsBg.png */; };
-		ACA99632148ECCE9001F8B52 /* optionsIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995E9148ECCE9001F8B52 /* optionsIcon.png */; };
-		ACA99633148ECCE9001F8B52 /* Pause.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995EA148ECCE9001F8B52 /* Pause.png */; };
-		ACA99634148ECCE9001F8B52 /* qunit.css in Resources */ = {isa = PBXBuildFile; fileRef = ACA995EB148ECCE9001F8B52 /* qunit.css */; };
-		ACA99635148ECCE9001F8B52 /* qunit.jslib in Resources */ = {isa = PBXBuildFile; fileRef = ACA995EC148ECCE9001F8B52 /* qunit.jslib */; };
-		ACA99636148ECCE9001F8B52 /* qunit.template in Resources */ = {isa = PBXBuildFile; fileRef = ACA995ED148ECCE9001F8B52 /* qunit.template */; };
-		ACA99637148ECCE9001F8B52 /* Scroll.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995EE148ECCE9001F8B52 /* Scroll.png */; };
-		ACA99638148ECCE9001F8B52 /* ScrollDown.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995EF148ECCE9001F8B52 /* ScrollDown.png */; };
-		ACA99639148ECCE9001F8B52 /* ScrollLeft.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995F0148ECCE9001F8B52 /* ScrollLeft.png */; };
-		ACA9963A148ECCE9001F8B52 /* ScrollRight.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995F1148ECCE9001F8B52 /* ScrollRight.png */; };
-		ACA9963B148ECCE9001F8B52 /* ScrollUp.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995F2148ECCE9001F8B52 /* ScrollUp.png */; };
-		ACA9963C148ECCE9001F8B52 /* Select.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995F3148ECCE9001F8B52 /* Select.png */; };
-		ACA9963D148ECCE9001F8B52 /* shadow.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995F4148ECCE9001F8B52 /* shadow.png */; };
-		ACA9963E148ECCE9001F8B52 /* shadowUp.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995F5148ECCE9001F8B52 /* shadowUp.png */; };
-		ACA9963F148ECCE9001F8B52 /* Shake.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995F6148ECCE9001F8B52 /* Shake.png */; };
-		ACA99640148ECCE9001F8B52 /* Slide.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995F7148ECCE9001F8B52 /* Slide.png */; };
-		ACA99641148ECCE9001F8B52 /* Switch.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995F8148ECCE9001F8B52 /* Switch.png */; };
-		ACA99642148ECCE9001F8B52 /* Tab.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995F9148ECCE9001F8B52 /* Tab.png */; };
-		ACA99643148ECCE9001F8B52 /* TouchLeft.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995FA148ECCE9001F8B52 /* TouchLeft.png */; };
-		ACA99644148ECCE9001F8B52 /* TouchRight.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995FB148ECCE9001F8B52 /* TouchRight.png */; };
-		ACA99645148ECCE9001F8B52 /* uiautomation.template in Resources */ = {isa = PBXBuildFile; fileRef = ACA995FC148ECCE9001F8B52 /* uiautomation.template */; };
-		ACA99646148ECCE9001F8B52 /* Verify.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995FD148ECCE9001F8B52 /* Verify.png */; };
-		ACA99647148ECCE9001F8B52 /* VScroll.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995FE148ECCE9001F8B52 /* VScroll.png */; };
-		ACA99648148ECCE9001F8B52 /* WaitFor.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA995FF148ECCE9001F8B52 /* WaitFor.png */; };
 		ACA9964A148ECD35001F8B52 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ACA99649148ECD35001F8B52 /* QuartzCore.framework */; };
 		ACA9964C148ECD75001F8B52 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ACA9964B148ECD75001F8B52 /* SenTestingKit.framework */; };
 		ACA9964E148ECFC0001F8B52 /* libxml2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = ACA9964D148ECFC0001F8B52 /* libxml2.dylib */; };
+		ACA99753148EDFA0001F8B52 /* iphonesim in Resources */ = {isa = PBXBuildFile; fileRef = ACA99700148EDFA0001F8B52 /* iphonesim */; };
+		ACA99754148EDFA0001F8B52 /* COPYRIGHT in Resources */ = {isa = PBXBuildFile; fileRef = ACA99701148EDFA0001F8B52 /* COPYRIGHT */; };
+		ACA99755148EDFA0001F8B52 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = ACA99703148EDFA0001F8B52 /* index.html */; };
+		ACA99756148EDFA0001F8B52 /* extralibs.zip in Resources */ = {isa = PBXBuildFile; fileRef = ACA99704148EDFA0001F8B52 /* extralibs.zip */; };
+		ACA99757148EDFA0001F8B52 /* FoneMonkeyRunner.plist in Resources */ = {isa = PBXBuildFile; fileRef = ACA99705148EDFA0001F8B52 /* FoneMonkeyRunner.plist */; };
+		ACA99758148EDFA0001F8B52 /* libFoneMonkey.5.5b.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ACA9970E148EDFA0001F8B52 /* libFoneMonkey.5.5b.a */; };
+		ACA99759148EDFA0001F8B52 /* libFoneMonkeyOCUnit.5.5b.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ACA9970F148EDFA0001F8B52 /* libFoneMonkeyOCUnit.5.5b.a */; };
+		ACA9975A148EDFA0001F8B52 /* ReleaseNotes.html in Resources */ = {isa = PBXBuildFile; fileRef = ACA99710148EDFA0001F8B52 /* ReleaseNotes.html */; };
+		ACA9975B148EDFA0001F8B52 /* FMClear.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA99712148EDFA0001F8B52 /* FMClear.png */; };
+		ACA9975C148EDFA0001F8B52 /* FMCommand.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA99713148EDFA0001F8B52 /* FMCommand.png */; };
+		ACA9975D148EDFA0001F8B52 /* FMCommandEditViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACA99714148EDFA0001F8B52 /* FMCommandEditViewController_iPad.xib */; };
+		ACA9975E148EDFA0001F8B52 /* FMCommandEditViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACA99715148EDFA0001F8B52 /* FMCommandEditViewController_iPhone.xib */; };
+		ACA9975F148EDFA0001F8B52 /* FMConsoleController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACA99716148EDFA0001F8B52 /* FMConsoleController_iPad.xib */; };
+		ACA99760148EDFA0001F8B52 /* FMConsoleController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACA99717148EDFA0001F8B52 /* FMConsoleController_iPhone.xib */; };
+		ACA99761148EDFA0001F8B52 /* FMDataDrive.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA99718148EDFA0001F8B52 /* FMDataDrive.png */; };
+		ACA99762148EDFA0001F8B52 /* FMDelete.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA99719148EDFA0001F8B52 /* FMDelete.png */; };
+		ACA99763148EDFA0001F8B52 /* FMEdit.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA9971A148EDFA0001F8B52 /* FMEdit.png */; };
+		ACA99764148EDFA0001F8B52 /* FMGetVariable.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA9971B148EDFA0001F8B52 /* FMGetVariable.png */; };
+		ACA99765148EDFA0001F8B52 /* FMGorilla_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACA9971C148EDFA0001F8B52 /* FMGorilla_iPad.xib */; };
+		ACA99766148EDFA0001F8B52 /* FMGorilla_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACA9971D148EDFA0001F8B52 /* FMGorilla_iPhone.xib */; };
+		ACA99767148EDFA0001F8B52 /* FMGorillaView_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACA9971E148EDFA0001F8B52 /* FMGorillaView_iPad.xib */; };
+		ACA99768148EDFA0001F8B52 /* FMGorillaView_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACA9971F148EDFA0001F8B52 /* FMGorillaView_iPhone.xib */; };
+		ACA99769148EDFA0001F8B52 /* FMInputText.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA99720148EDFA0001F8B52 /* FMInputText.png */; };
+		ACA9976A148EDFA0001F8B52 /* FMObjConnect.html in Resources */ = {isa = PBXBuildFile; fileRef = ACA99721148EDFA0001F8B52 /* FMObjConnect.html */; };
+		ACA9976B148EDFA0001F8B52 /* FMObjConnect.jslib in Resources */ = {isa = PBXBuildFile; fileRef = ACA99722148EDFA0001F8B52 /* FMObjConnect.jslib */; };
+		ACA9976C148EDFA0001F8B52 /* FMOpenScriptDialog_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACA99723148EDFA0001F8B52 /* FMOpenScriptDialog_iPad.xib */; };
+		ACA9976D148EDFA0001F8B52 /* FMOpenScriptDialog_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACA99724148EDFA0001F8B52 /* FMOpenScriptDialog_iPhone.xib */; };
+		ACA9976E148EDFA0001F8B52 /* FMPauseMovie.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA99725148EDFA0001F8B52 /* FMPauseMovie.png */; };
+		ACA9976F148EDFA0001F8B52 /* FMPlayMovie.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA99726148EDFA0001F8B52 /* FMPlayMovie.png */; };
+		ACA99770148EDFA0001F8B52 /* FMQunitAPI.jslib in Resources */ = {isa = PBXBuildFile; fileRef = ACA99727148EDFA0001F8B52 /* FMQunitAPI.jslib */; };
+		ACA99771148EDFA0001F8B52 /* FMReturn.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA99728148EDFA0001F8B52 /* FMReturn.png */; };
+		ACA99772148EDFA0001F8B52 /* FMRotate.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA99729148EDFA0001F8B52 /* FMRotate.png */; };
+		ACA99773148EDFA0001F8B52 /* FMSaveScriptDialog_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACA9972A148EDFA0001F8B52 /* FMSaveScriptDialog_iPad.xib */; };
+		ACA99774148EDFA0001F8B52 /* FMSaveScriptDialog_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACA9972B148EDFA0001F8B52 /* FMSaveScriptDialog_iPhone.xib */; };
+		ACA99775148EDFA0001F8B52 /* FMTouch.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA9972C148EDFA0001F8B52 /* FMTouch.png */; };
+		ACA99776148EDFA0001F8B52 /* FMWebDriver.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA9972D148EDFA0001F8B52 /* FMWebDriver.png */; };
+		ACA99777148EDFA0001F8B52 /* FoneMonkey.jslib in Resources */ = {isa = PBXBuildFile; fileRef = ACA9972E148EDFA0001F8B52 /* FoneMonkey.jslib */; };
+		ACA99778148EDFA0001F8B52 /* gorilla-32.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA9972F148EDFA0001F8B52 /* gorilla-32.png */; };
+		ACA99779148EDFA0001F8B52 /* gorillalogic.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA99730148EDFA0001F8B52 /* gorillalogic.png */; };
+		ACA9977A148EDFA0001F8B52 /* icon_arrow_down.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA99731148EDFA0001F8B52 /* icon_arrow_down.png */; };
+		ACA9977B148EDFA0001F8B52 /* icon_arrow_up.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA99732148EDFA0001F8B52 /* icon_arrow_up.png */; };
+		ACA9977C148EDFA0001F8B52 /* icon_controls_3.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA99733148EDFA0001F8B52 /* icon_controls_3.png */; };
+		ACA9977D148EDFA0001F8B52 /* icon_controls_4.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA99734148EDFA0001F8B52 /* icon_controls_4.png */; };
+		ACA9977E148EDFA0001F8B52 /* icon_filming.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA99735148EDFA0001F8B52 /* icon_filming.png */; };
+		ACA9977F148EDFA0001F8B52 /* icon_script.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA99736148EDFA0001F8B52 /* icon_script.png */; };
+		ACA99780148EDFA0001F8B52 /* icon_timer.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA99737148EDFA0001F8B52 /* icon_timer.png */; };
+		ACA99781148EDFA0001F8B52 /* jquery-latest.jslib in Resources */ = {isa = PBXBuildFile; fileRef = ACA99738148EDFA0001F8B52 /* jquery-latest.jslib */; };
+		ACA99782148EDFA0001F8B52 /* Move.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA99739148EDFA0001F8B52 /* Move.png */; };
+		ACA99783148EDFA0001F8B52 /* objc.template in Resources */ = {isa = PBXBuildFile; fileRef = ACA9973A148EDFA0001F8B52 /* objc.template */; };
+		ACA99784148EDFA0001F8B52 /* optionsBg.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA9973B148EDFA0001F8B52 /* optionsBg.png */; };
+		ACA99785148EDFA0001F8B52 /* optionsIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA9973C148EDFA0001F8B52 /* optionsIcon.png */; };
+		ACA99786148EDFA0001F8B52 /* Pause.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA9973D148EDFA0001F8B52 /* Pause.png */; };
+		ACA99787148EDFA0001F8B52 /* qunit.css in Resources */ = {isa = PBXBuildFile; fileRef = ACA9973E148EDFA0001F8B52 /* qunit.css */; };
+		ACA99788148EDFA0001F8B52 /* qunit.jslib in Resources */ = {isa = PBXBuildFile; fileRef = ACA9973F148EDFA0001F8B52 /* qunit.jslib */; };
+		ACA99789148EDFA0001F8B52 /* qunit.template in Resources */ = {isa = PBXBuildFile; fileRef = ACA99740148EDFA0001F8B52 /* qunit.template */; };
+		ACA9978A148EDFA0001F8B52 /* Scroll.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA99741148EDFA0001F8B52 /* Scroll.png */; };
+		ACA9978B148EDFA0001F8B52 /* ScrollDown.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA99742148EDFA0001F8B52 /* ScrollDown.png */; };
+		ACA9978C148EDFA0001F8B52 /* ScrollLeft.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA99743148EDFA0001F8B52 /* ScrollLeft.png */; };
+		ACA9978D148EDFA0001F8B52 /* ScrollRight.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA99744148EDFA0001F8B52 /* ScrollRight.png */; };
+		ACA9978E148EDFA0001F8B52 /* ScrollUp.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA99745148EDFA0001F8B52 /* ScrollUp.png */; };
+		ACA9978F148EDFA0001F8B52 /* Select.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA99746148EDFA0001F8B52 /* Select.png */; };
+		ACA99790148EDFA0001F8B52 /* shadow.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA99747148EDFA0001F8B52 /* shadow.png */; };
+		ACA99791148EDFA0001F8B52 /* shadowUp.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA99748148EDFA0001F8B52 /* shadowUp.png */; };
+		ACA99792148EDFA0001F8B52 /* Shake.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA99749148EDFA0001F8B52 /* Shake.png */; };
+		ACA99793148EDFA0001F8B52 /* Slide.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA9974A148EDFA0001F8B52 /* Slide.png */; };
+		ACA99794148EDFA0001F8B52 /* Switch.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA9974B148EDFA0001F8B52 /* Switch.png */; };
+		ACA99795148EDFA0001F8B52 /* Tab.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA9974C148EDFA0001F8B52 /* Tab.png */; };
+		ACA99796148EDFA0001F8B52 /* TouchLeft.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA9974D148EDFA0001F8B52 /* TouchLeft.png */; };
+		ACA99797148EDFA0001F8B52 /* TouchRight.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA9974E148EDFA0001F8B52 /* TouchRight.png */; };
+		ACA99798148EDFA0001F8B52 /* uiautomation.template in Resources */ = {isa = PBXBuildFile; fileRef = ACA9974F148EDFA0001F8B52 /* uiautomation.template */; };
+		ACA99799148EDFA0001F8B52 /* Verify.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA99750148EDFA0001F8B52 /* Verify.png */; };
+		ACA9979A148EDFA0001F8B52 /* VScroll.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA99751148EDFA0001F8B52 /* VScroll.png */; };
+		ACA9979B148EDFA0001F8B52 /* WaitFor.png in Resources */ = {isa = PBXBuildFile; fileRef = ACA99752148EDFA0001F8B52 /* WaitFor.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -237,7 +237,6 @@
 		532ABB2B11D5647300D29D20 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@2x.png"; sourceTree = "<group>"; };
 		532ABB2C11D5647300D29D20 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
 		532ABB2D11D5647300D29D20 /* iTunesArtwork */ = {isa = PBXFileReference; lastKnownFileType = file; path = iTunesArtwork; sourceTree = "<group>"; };
-		533959C80DB800E8004A17CB /* ReadMe.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ReadMe.txt; sourceTree = "<group>"; };
 		5348C5BC0DB55CE800E8144A /* SearchBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SearchBarController.m; sourceTree = "<group>"; };
 		5348C5BD0DB55CE800E8144A /* SearchBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchBarController.h; sourceTree = "<group>"; };
 		534E452D0D65F9A800BDA07D /* AlertsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AlertsViewController.m; sourceTree = "<group>"; };
@@ -311,88 +310,88 @@
 		ACA9955C148DEA3A001F8B52 /* UICatalog copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "UICatalog copy-Info.plist"; path = "/Users/giovanni/Downloads/UICatalog/UICatalog copy-Info.plist"; sourceTree = "<absolute>"; };
 		ACA995A8148ECC9C001F8B52 /* UICatalog copy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UICatalog copy.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACA995AA148ECC9C001F8B52 /* UICatalog copy2-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "UICatalog copy2-Info.plist"; path = "/Users/giovanni/Downloads/UICatalog/UICatalog copy2-Info.plist"; sourceTree = "<absolute>"; };
-		ACA995AD148ECCE9001F8B52 /* iphonesim */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = iphonesim; sourceTree = "<group>"; };
-		ACA995AE148ECCE9001F8B52 /* COPYRIGHT */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = COPYRIGHT; sourceTree = "<group>"; };
-		ACA995B0148ECCE9001F8B52 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
-		ACA995B1148ECCE9001F8B52 /* extralibs.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = extralibs.zip; sourceTree = "<group>"; };
-		ACA995B2148ECCE9001F8B52 /* FoneMonkeyRunner.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = FoneMonkeyRunner.plist; sourceTree = "<group>"; };
-		ACA995B4148ECCE9001F8B52 /* FMCommandEvent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMCommandEvent.h; sourceTree = "<group>"; };
-		ACA995B5148ECCE9001F8B52 /* FoneMonkey+OCUnit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "FoneMonkey+OCUnit.h"; sourceTree = "<group>"; };
-		ACA995B6148ECCE9001F8B52 /* FoneMonkeyAPI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FoneMonkeyAPI.h; sourceTree = "<group>"; };
-		ACA995B7148ECCE9001F8B52 /* TouchSynthesis.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TouchSynthesis.h; sourceTree = "<group>"; };
-		ACA995B8148ECCE9001F8B52 /* UIControl+FMready.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIControl+FMready.h"; sourceTree = "<group>"; };
-		ACA995B9148ECCE9001F8B52 /* UIView+FMReady.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+FMReady.h"; sourceTree = "<group>"; };
-		ACA995BB148ECCE9001F8B52 /* libFoneMonkey.5.5b.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libFoneMonkey.5.5b.a; sourceTree = "<group>"; };
-		ACA995BC148ECCE9001F8B52 /* libFoneMonkeyOCUnit.5.5b.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libFoneMonkeyOCUnit.5.5b.a; sourceTree = "<group>"; };
-		ACA995BD148ECCE9001F8B52 /* ReleaseNotes.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = ReleaseNotes.html; sourceTree = "<group>"; };
-		ACA995BF148ECCE9001F8B52 /* FMClear.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FMClear.png; sourceTree = "<group>"; };
-		ACA995C0148ECCE9001F8B52 /* FMCommand.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FMCommand.png; sourceTree = "<group>"; };
-		ACA995C1148ECCE9001F8B52 /* FMCommandEditViewController_iPad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FMCommandEditViewController_iPad.xib; sourceTree = "<group>"; };
-		ACA995C2148ECCE9001F8B52 /* FMCommandEditViewController_iPhone.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FMCommandEditViewController_iPhone.xib; sourceTree = "<group>"; };
-		ACA995C3148ECCE9001F8B52 /* FMConsoleController_iPad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FMConsoleController_iPad.xib; sourceTree = "<group>"; };
-		ACA995C4148ECCE9001F8B52 /* FMConsoleController_iPhone.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FMConsoleController_iPhone.xib; sourceTree = "<group>"; };
-		ACA995C5148ECCE9001F8B52 /* FMDataDrive.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FMDataDrive.png; sourceTree = "<group>"; };
-		ACA995C6148ECCE9001F8B52 /* FMDelete.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FMDelete.png; sourceTree = "<group>"; };
-		ACA995C7148ECCE9001F8B52 /* FMEdit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FMEdit.png; sourceTree = "<group>"; };
-		ACA995C8148ECCE9001F8B52 /* FMGetVariable.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FMGetVariable.png; sourceTree = "<group>"; };
-		ACA995C9148ECCE9001F8B52 /* FMGorilla_iPad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FMGorilla_iPad.xib; sourceTree = "<group>"; };
-		ACA995CA148ECCE9001F8B52 /* FMGorilla_iPhone.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FMGorilla_iPhone.xib; sourceTree = "<group>"; };
-		ACA995CB148ECCE9001F8B52 /* FMGorillaView_iPad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FMGorillaView_iPad.xib; sourceTree = "<group>"; };
-		ACA995CC148ECCE9001F8B52 /* FMGorillaView_iPhone.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FMGorillaView_iPhone.xib; sourceTree = "<group>"; };
-		ACA995CD148ECCE9001F8B52 /* FMInputText.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FMInputText.png; sourceTree = "<group>"; };
-		ACA995CE148ECCE9001F8B52 /* FMObjConnect.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = FMObjConnect.html; sourceTree = "<group>"; };
-		ACA995CF148ECCE9001F8B52 /* FMObjConnect.jslib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = FMObjConnect.jslib; sourceTree = "<group>"; };
-		ACA995D0148ECCE9001F8B52 /* FMOpenScriptDialog_iPad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FMOpenScriptDialog_iPad.xib; sourceTree = "<group>"; };
-		ACA995D1148ECCE9001F8B52 /* FMOpenScriptDialog_iPhone.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FMOpenScriptDialog_iPhone.xib; sourceTree = "<group>"; };
-		ACA995D2148ECCE9001F8B52 /* FMPauseMovie.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FMPauseMovie.png; sourceTree = "<group>"; };
-		ACA995D3148ECCE9001F8B52 /* FMPlayMovie.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FMPlayMovie.png; sourceTree = "<group>"; };
-		ACA995D4148ECCE9001F8B52 /* FMQunitAPI.jslib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = FMQunitAPI.jslib; sourceTree = "<group>"; };
-		ACA995D5148ECCE9001F8B52 /* FMReturn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FMReturn.png; sourceTree = "<group>"; };
-		ACA995D6148ECCE9001F8B52 /* FMRotate.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FMRotate.png; sourceTree = "<group>"; };
-		ACA995D7148ECCE9001F8B52 /* FMSaveScriptDialog_iPad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FMSaveScriptDialog_iPad.xib; sourceTree = "<group>"; };
-		ACA995D8148ECCE9001F8B52 /* FMSaveScriptDialog_iPhone.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FMSaveScriptDialog_iPhone.xib; sourceTree = "<group>"; };
-		ACA995D9148ECCE9001F8B52 /* FMTouch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FMTouch.png; sourceTree = "<group>"; };
-		ACA995DA148ECCE9001F8B52 /* FMWebDriver.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FMWebDriver.png; sourceTree = "<group>"; };
-		ACA995DB148ECCE9001F8B52 /* FoneMonkey.jslib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = FoneMonkey.jslib; sourceTree = "<group>"; };
-		ACA995DC148ECCE9001F8B52 /* gorilla-32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "gorilla-32.png"; sourceTree = "<group>"; };
-		ACA995DD148ECCE9001F8B52 /* gorillalogic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gorillalogic.png; sourceTree = "<group>"; };
-		ACA995DE148ECCE9001F8B52 /* icon_arrow_down.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_arrow_down.png; sourceTree = "<group>"; };
-		ACA995DF148ECCE9001F8B52 /* icon_arrow_up.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_arrow_up.png; sourceTree = "<group>"; };
-		ACA995E0148ECCE9001F8B52 /* icon_controls_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_controls_3.png; sourceTree = "<group>"; };
-		ACA995E1148ECCE9001F8B52 /* icon_controls_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_controls_4.png; sourceTree = "<group>"; };
-		ACA995E2148ECCE9001F8B52 /* icon_filming.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_filming.png; sourceTree = "<group>"; };
-		ACA995E3148ECCE9001F8B52 /* icon_script.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_script.png; sourceTree = "<group>"; };
-		ACA995E4148ECCE9001F8B52 /* icon_timer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_timer.png; sourceTree = "<group>"; };
-		ACA995E5148ECCE9001F8B52 /* jquery-latest.jslib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "jquery-latest.jslib"; sourceTree = "<group>"; };
-		ACA995E6148ECCE9001F8B52 /* Move.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Move.png; sourceTree = "<group>"; };
-		ACA995E7148ECCE9001F8B52 /* objc.template */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = objc.template; sourceTree = "<group>"; };
-		ACA995E8148ECCE9001F8B52 /* optionsBg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = optionsBg.png; sourceTree = "<group>"; };
-		ACA995E9148ECCE9001F8B52 /* optionsIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = optionsIcon.png; sourceTree = "<group>"; };
-		ACA995EA148ECCE9001F8B52 /* Pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Pause.png; sourceTree = "<group>"; };
-		ACA995EB148ECCE9001F8B52 /* qunit.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = qunit.css; sourceTree = "<group>"; };
-		ACA995EC148ECCE9001F8B52 /* qunit.jslib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = qunit.jslib; sourceTree = "<group>"; };
-		ACA995ED148ECCE9001F8B52 /* qunit.template */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = qunit.template; sourceTree = "<group>"; };
-		ACA995EE148ECCE9001F8B52 /* Scroll.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Scroll.png; sourceTree = "<group>"; };
-		ACA995EF148ECCE9001F8B52 /* ScrollDown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ScrollDown.png; sourceTree = "<group>"; };
-		ACA995F0148ECCE9001F8B52 /* ScrollLeft.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ScrollLeft.png; sourceTree = "<group>"; };
-		ACA995F1148ECCE9001F8B52 /* ScrollRight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ScrollRight.png; sourceTree = "<group>"; };
-		ACA995F2148ECCE9001F8B52 /* ScrollUp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ScrollUp.png; sourceTree = "<group>"; };
-		ACA995F3148ECCE9001F8B52 /* Select.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Select.png; sourceTree = "<group>"; };
-		ACA995F4148ECCE9001F8B52 /* shadow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shadow.png; sourceTree = "<group>"; };
-		ACA995F5148ECCE9001F8B52 /* shadowUp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shadowUp.png; sourceTree = "<group>"; };
-		ACA995F6148ECCE9001F8B52 /* Shake.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Shake.png; sourceTree = "<group>"; };
-		ACA995F7148ECCE9001F8B52 /* Slide.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Slide.png; sourceTree = "<group>"; };
-		ACA995F8148ECCE9001F8B52 /* Switch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Switch.png; sourceTree = "<group>"; };
-		ACA995F9148ECCE9001F8B52 /* Tab.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Tab.png; sourceTree = "<group>"; };
-		ACA995FA148ECCE9001F8B52 /* TouchLeft.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TouchLeft.png; sourceTree = "<group>"; };
-		ACA995FB148ECCE9001F8B52 /* TouchRight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TouchRight.png; sourceTree = "<group>"; };
-		ACA995FC148ECCE9001F8B52 /* uiautomation.template */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = uiautomation.template; sourceTree = "<group>"; };
-		ACA995FD148ECCE9001F8B52 /* Verify.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Verify.png; sourceTree = "<group>"; };
-		ACA995FE148ECCE9001F8B52 /* VScroll.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = VScroll.png; sourceTree = "<group>"; };
-		ACA995FF148ECCE9001F8B52 /* WaitFor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = WaitFor.png; sourceTree = "<group>"; };
 		ACA99649148ECD35001F8B52 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		ACA9964B148ECD75001F8B52 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
 		ACA9964D148ECFC0001F8B52 /* libxml2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxml2.dylib; path = usr/lib/libxml2.dylib; sourceTree = SDKROOT; };
+		ACA99700148EDFA0001F8B52 /* iphonesim */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = iphonesim; sourceTree = "<group>"; };
+		ACA99701148EDFA0001F8B52 /* COPYRIGHT */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = COPYRIGHT; sourceTree = "<group>"; };
+		ACA99703148EDFA0001F8B52 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		ACA99704148EDFA0001F8B52 /* extralibs.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = extralibs.zip; sourceTree = "<group>"; };
+		ACA99705148EDFA0001F8B52 /* FoneMonkeyRunner.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = FoneMonkeyRunner.plist; sourceTree = "<group>"; };
+		ACA99707148EDFA0001F8B52 /* FMCommandEvent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMCommandEvent.h; sourceTree = "<group>"; };
+		ACA99708148EDFA0001F8B52 /* FoneMonkey+OCUnit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "FoneMonkey+OCUnit.h"; sourceTree = "<group>"; };
+		ACA99709148EDFA0001F8B52 /* FoneMonkeyAPI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FoneMonkeyAPI.h; sourceTree = "<group>"; };
+		ACA9970A148EDFA0001F8B52 /* TouchSynthesis.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TouchSynthesis.h; sourceTree = "<group>"; };
+		ACA9970B148EDFA0001F8B52 /* UIControl+FMready.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIControl+FMready.h"; sourceTree = "<group>"; };
+		ACA9970C148EDFA0001F8B52 /* UIView+FMReady.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+FMReady.h"; sourceTree = "<group>"; };
+		ACA9970E148EDFA0001F8B52 /* libFoneMonkey.5.5b.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libFoneMonkey.5.5b.a; sourceTree = "<group>"; };
+		ACA9970F148EDFA0001F8B52 /* libFoneMonkeyOCUnit.5.5b.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libFoneMonkeyOCUnit.5.5b.a; sourceTree = "<group>"; };
+		ACA99710148EDFA0001F8B52 /* ReleaseNotes.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = ReleaseNotes.html; sourceTree = "<group>"; };
+		ACA99712148EDFA0001F8B52 /* FMClear.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FMClear.png; sourceTree = "<group>"; };
+		ACA99713148EDFA0001F8B52 /* FMCommand.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FMCommand.png; sourceTree = "<group>"; };
+		ACA99714148EDFA0001F8B52 /* FMCommandEditViewController_iPad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FMCommandEditViewController_iPad.xib; sourceTree = "<group>"; };
+		ACA99715148EDFA0001F8B52 /* FMCommandEditViewController_iPhone.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FMCommandEditViewController_iPhone.xib; sourceTree = "<group>"; };
+		ACA99716148EDFA0001F8B52 /* FMConsoleController_iPad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FMConsoleController_iPad.xib; sourceTree = "<group>"; };
+		ACA99717148EDFA0001F8B52 /* FMConsoleController_iPhone.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FMConsoleController_iPhone.xib; sourceTree = "<group>"; };
+		ACA99718148EDFA0001F8B52 /* FMDataDrive.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FMDataDrive.png; sourceTree = "<group>"; };
+		ACA99719148EDFA0001F8B52 /* FMDelete.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FMDelete.png; sourceTree = "<group>"; };
+		ACA9971A148EDFA0001F8B52 /* FMEdit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FMEdit.png; sourceTree = "<group>"; };
+		ACA9971B148EDFA0001F8B52 /* FMGetVariable.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FMGetVariable.png; sourceTree = "<group>"; };
+		ACA9971C148EDFA0001F8B52 /* FMGorilla_iPad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FMGorilla_iPad.xib; sourceTree = "<group>"; };
+		ACA9971D148EDFA0001F8B52 /* FMGorilla_iPhone.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FMGorilla_iPhone.xib; sourceTree = "<group>"; };
+		ACA9971E148EDFA0001F8B52 /* FMGorillaView_iPad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FMGorillaView_iPad.xib; sourceTree = "<group>"; };
+		ACA9971F148EDFA0001F8B52 /* FMGorillaView_iPhone.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FMGorillaView_iPhone.xib; sourceTree = "<group>"; };
+		ACA99720148EDFA0001F8B52 /* FMInputText.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FMInputText.png; sourceTree = "<group>"; };
+		ACA99721148EDFA0001F8B52 /* FMObjConnect.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = FMObjConnect.html; sourceTree = "<group>"; };
+		ACA99722148EDFA0001F8B52 /* FMObjConnect.jslib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = FMObjConnect.jslib; sourceTree = "<group>"; };
+		ACA99723148EDFA0001F8B52 /* FMOpenScriptDialog_iPad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FMOpenScriptDialog_iPad.xib; sourceTree = "<group>"; };
+		ACA99724148EDFA0001F8B52 /* FMOpenScriptDialog_iPhone.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FMOpenScriptDialog_iPhone.xib; sourceTree = "<group>"; };
+		ACA99725148EDFA0001F8B52 /* FMPauseMovie.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FMPauseMovie.png; sourceTree = "<group>"; };
+		ACA99726148EDFA0001F8B52 /* FMPlayMovie.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FMPlayMovie.png; sourceTree = "<group>"; };
+		ACA99727148EDFA0001F8B52 /* FMQunitAPI.jslib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = FMQunitAPI.jslib; sourceTree = "<group>"; };
+		ACA99728148EDFA0001F8B52 /* FMReturn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FMReturn.png; sourceTree = "<group>"; };
+		ACA99729148EDFA0001F8B52 /* FMRotate.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FMRotate.png; sourceTree = "<group>"; };
+		ACA9972A148EDFA0001F8B52 /* FMSaveScriptDialog_iPad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FMSaveScriptDialog_iPad.xib; sourceTree = "<group>"; };
+		ACA9972B148EDFA0001F8B52 /* FMSaveScriptDialog_iPhone.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FMSaveScriptDialog_iPhone.xib; sourceTree = "<group>"; };
+		ACA9972C148EDFA0001F8B52 /* FMTouch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FMTouch.png; sourceTree = "<group>"; };
+		ACA9972D148EDFA0001F8B52 /* FMWebDriver.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FMWebDriver.png; sourceTree = "<group>"; };
+		ACA9972E148EDFA0001F8B52 /* FoneMonkey.jslib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = FoneMonkey.jslib; sourceTree = "<group>"; };
+		ACA9972F148EDFA0001F8B52 /* gorilla-32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "gorilla-32.png"; sourceTree = "<group>"; };
+		ACA99730148EDFA0001F8B52 /* gorillalogic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gorillalogic.png; sourceTree = "<group>"; };
+		ACA99731148EDFA0001F8B52 /* icon_arrow_down.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_arrow_down.png; sourceTree = "<group>"; };
+		ACA99732148EDFA0001F8B52 /* icon_arrow_up.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_arrow_up.png; sourceTree = "<group>"; };
+		ACA99733148EDFA0001F8B52 /* icon_controls_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_controls_3.png; sourceTree = "<group>"; };
+		ACA99734148EDFA0001F8B52 /* icon_controls_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_controls_4.png; sourceTree = "<group>"; };
+		ACA99735148EDFA0001F8B52 /* icon_filming.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_filming.png; sourceTree = "<group>"; };
+		ACA99736148EDFA0001F8B52 /* icon_script.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_script.png; sourceTree = "<group>"; };
+		ACA99737148EDFA0001F8B52 /* icon_timer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_timer.png; sourceTree = "<group>"; };
+		ACA99738148EDFA0001F8B52 /* jquery-latest.jslib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "jquery-latest.jslib"; sourceTree = "<group>"; };
+		ACA99739148EDFA0001F8B52 /* Move.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Move.png; sourceTree = "<group>"; };
+		ACA9973A148EDFA0001F8B52 /* objc.template */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = objc.template; sourceTree = "<group>"; };
+		ACA9973B148EDFA0001F8B52 /* optionsBg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = optionsBg.png; sourceTree = "<group>"; };
+		ACA9973C148EDFA0001F8B52 /* optionsIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = optionsIcon.png; sourceTree = "<group>"; };
+		ACA9973D148EDFA0001F8B52 /* Pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Pause.png; sourceTree = "<group>"; };
+		ACA9973E148EDFA0001F8B52 /* qunit.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = qunit.css; sourceTree = "<group>"; };
+		ACA9973F148EDFA0001F8B52 /* qunit.jslib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = qunit.jslib; sourceTree = "<group>"; };
+		ACA99740148EDFA0001F8B52 /* qunit.template */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = qunit.template; sourceTree = "<group>"; };
+		ACA99741148EDFA0001F8B52 /* Scroll.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Scroll.png; sourceTree = "<group>"; };
+		ACA99742148EDFA0001F8B52 /* ScrollDown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ScrollDown.png; sourceTree = "<group>"; };
+		ACA99743148EDFA0001F8B52 /* ScrollLeft.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ScrollLeft.png; sourceTree = "<group>"; };
+		ACA99744148EDFA0001F8B52 /* ScrollRight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ScrollRight.png; sourceTree = "<group>"; };
+		ACA99745148EDFA0001F8B52 /* ScrollUp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ScrollUp.png; sourceTree = "<group>"; };
+		ACA99746148EDFA0001F8B52 /* Select.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Select.png; sourceTree = "<group>"; };
+		ACA99747148EDFA0001F8B52 /* shadow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shadow.png; sourceTree = "<group>"; };
+		ACA99748148EDFA0001F8B52 /* shadowUp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shadowUp.png; sourceTree = "<group>"; };
+		ACA99749148EDFA0001F8B52 /* Shake.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Shake.png; sourceTree = "<group>"; };
+		ACA9974A148EDFA0001F8B52 /* Slide.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Slide.png; sourceTree = "<group>"; };
+		ACA9974B148EDFA0001F8B52 /* Switch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Switch.png; sourceTree = "<group>"; };
+		ACA9974C148EDFA0001F8B52 /* Tab.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Tab.png; sourceTree = "<group>"; };
+		ACA9974D148EDFA0001F8B52 /* TouchLeft.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TouchLeft.png; sourceTree = "<group>"; };
+		ACA9974E148EDFA0001F8B52 /* TouchRight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TouchRight.png; sourceTree = "<group>"; };
+		ACA9974F148EDFA0001F8B52 /* uiautomation.template */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = uiautomation.template; sourceTree = "<group>"; };
+		ACA99750148EDFA0001F8B52 /* Verify.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Verify.png; sourceTree = "<group>"; };
+		ACA99751148EDFA0001F8B52 /* VScroll.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = VScroll.png; sourceTree = "<group>"; };
+		ACA99752148EDFA0001F8B52 /* WaitFor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = WaitFor.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -418,8 +417,8 @@
 				ACA995A2148ECC9C001F8B52 /* Foundation.framework in Frameworks */,
 				ACA995A3148ECC9C001F8B52 /* UIKit.framework in Frameworks */,
 				ACA995A4148ECC9C001F8B52 /* CoreGraphics.framework in Frameworks */,
-				ACA99605148ECCE9001F8B52 /* libFoneMonkey.5.5b.a in Frameworks */,
-				ACA99606148ECCE9001F8B52 /* libFoneMonkeyOCUnit.5.5b.a in Frameworks */,
+				ACA99758148EDFA0001F8B52 /* libFoneMonkey.5.5b.a in Frameworks */,
+				ACA99759148EDFA0001F8B52 /* libFoneMonkeyOCUnit.5.5b.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -438,11 +437,10 @@
 		29B97314FDCFA39411CA2CEA /* Toolbar */ = {
 			isa = PBXGroup;
 			children = (
+				ACA996FE148EDFA0001F8B52 /* FoneMonkey */,
 				ACA9964D148ECFC0001F8B52 /* libxml2.dylib */,
 				ACA9964B148ECD75001F8B52 /* SenTestingKit.framework */,
 				ACA99649148ECD35001F8B52 /* QuartzCore.framework */,
-				ACA995AB148ECCE9001F8B52 /* FoneMonkey */,
-				533959C80DB800E8004A17CB /* ReadMe.txt */,
 				29B97315FDCFA39411CA2CEA /* Sources */,
 				53CFC06A0D62591400422A0E /* images */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
@@ -584,129 +582,129 @@
 			path = images;
 			sourceTree = "<group>";
 		};
-		ACA995AB148ECCE9001F8B52 /* FoneMonkey */ = {
+		ACA996FE148EDFA0001F8B52 /* FoneMonkey */ = {
 			isa = PBXGroup;
 			children = (
-				ACA995AC148ECCE9001F8B52 /* bin */,
-				ACA995AE148ECCE9001F8B52 /* COPYRIGHT */,
-				ACA995AF148ECCE9001F8B52 /* docs */,
-				ACA995B1148ECCE9001F8B52 /* extralibs.zip */,
-				ACA995B2148ECCE9001F8B52 /* FoneMonkeyRunner.plist */,
-				ACA995B3148ECCE9001F8B52 /* include */,
-				ACA995BA148ECCE9001F8B52 /* lib */,
-				ACA995BD148ECCE9001F8B52 /* ReleaseNotes.html */,
-				ACA995BE148ECCE9001F8B52 /* resources */,
+				ACA996FF148EDFA0001F8B52 /* bin */,
+				ACA99701148EDFA0001F8B52 /* COPYRIGHT */,
+				ACA99702148EDFA0001F8B52 /* docs */,
+				ACA99704148EDFA0001F8B52 /* extralibs.zip */,
+				ACA99705148EDFA0001F8B52 /* FoneMonkeyRunner.plist */,
+				ACA99706148EDFA0001F8B52 /* include */,
+				ACA9970D148EDFA0001F8B52 /* lib */,
+				ACA99710148EDFA0001F8B52 /* ReleaseNotes.html */,
+				ACA99711148EDFA0001F8B52 /* resources */,
 			);
 			name = FoneMonkey;
-			path = ../FoneMonkey;
+			path = ../../../Downloads/FoneMonkey;
 			sourceTree = "<group>";
 		};
-		ACA995AC148ECCE9001F8B52 /* bin */ = {
+		ACA996FF148EDFA0001F8B52 /* bin */ = {
 			isa = PBXGroup;
 			children = (
-				ACA995AD148ECCE9001F8B52 /* iphonesim */,
+				ACA99700148EDFA0001F8B52 /* iphonesim */,
 			);
 			path = bin;
 			sourceTree = "<group>";
 		};
-		ACA995AF148ECCE9001F8B52 /* docs */ = {
+		ACA99702148EDFA0001F8B52 /* docs */ = {
 			isa = PBXGroup;
 			children = (
-				ACA995B0148ECCE9001F8B52 /* index.html */,
+				ACA99703148EDFA0001F8B52 /* index.html */,
 			);
 			path = docs;
 			sourceTree = "<group>";
 		};
-		ACA995B3148ECCE9001F8B52 /* include */ = {
+		ACA99706148EDFA0001F8B52 /* include */ = {
 			isa = PBXGroup;
 			children = (
-				ACA995B4148ECCE9001F8B52 /* FMCommandEvent.h */,
-				ACA995B5148ECCE9001F8B52 /* FoneMonkey+OCUnit.h */,
-				ACA995B6148ECCE9001F8B52 /* FoneMonkeyAPI.h */,
-				ACA995B7148ECCE9001F8B52 /* TouchSynthesis.h */,
-				ACA995B8148ECCE9001F8B52 /* UIControl+FMready.h */,
-				ACA995B9148ECCE9001F8B52 /* UIView+FMReady.h */,
+				ACA99707148EDFA0001F8B52 /* FMCommandEvent.h */,
+				ACA99708148EDFA0001F8B52 /* FoneMonkey+OCUnit.h */,
+				ACA99709148EDFA0001F8B52 /* FoneMonkeyAPI.h */,
+				ACA9970A148EDFA0001F8B52 /* TouchSynthesis.h */,
+				ACA9970B148EDFA0001F8B52 /* UIControl+FMready.h */,
+				ACA9970C148EDFA0001F8B52 /* UIView+FMReady.h */,
 			);
 			path = include;
 			sourceTree = "<group>";
 		};
-		ACA995BA148ECCE9001F8B52 /* lib */ = {
+		ACA9970D148EDFA0001F8B52 /* lib */ = {
 			isa = PBXGroup;
 			children = (
-				ACA995BB148ECCE9001F8B52 /* libFoneMonkey.5.5b.a */,
-				ACA995BC148ECCE9001F8B52 /* libFoneMonkeyOCUnit.5.5b.a */,
+				ACA9970E148EDFA0001F8B52 /* libFoneMonkey.5.5b.a */,
+				ACA9970F148EDFA0001F8B52 /* libFoneMonkeyOCUnit.5.5b.a */,
 			);
 			path = lib;
 			sourceTree = "<group>";
 		};
-		ACA995BE148ECCE9001F8B52 /* resources */ = {
+		ACA99711148EDFA0001F8B52 /* resources */ = {
 			isa = PBXGroup;
 			children = (
-				ACA995BF148ECCE9001F8B52 /* FMClear.png */,
-				ACA995C0148ECCE9001F8B52 /* FMCommand.png */,
-				ACA995C1148ECCE9001F8B52 /* FMCommandEditViewController_iPad.xib */,
-				ACA995C2148ECCE9001F8B52 /* FMCommandEditViewController_iPhone.xib */,
-				ACA995C3148ECCE9001F8B52 /* FMConsoleController_iPad.xib */,
-				ACA995C4148ECCE9001F8B52 /* FMConsoleController_iPhone.xib */,
-				ACA995C5148ECCE9001F8B52 /* FMDataDrive.png */,
-				ACA995C6148ECCE9001F8B52 /* FMDelete.png */,
-				ACA995C7148ECCE9001F8B52 /* FMEdit.png */,
-				ACA995C8148ECCE9001F8B52 /* FMGetVariable.png */,
-				ACA995C9148ECCE9001F8B52 /* FMGorilla_iPad.xib */,
-				ACA995CA148ECCE9001F8B52 /* FMGorilla_iPhone.xib */,
-				ACA995CB148ECCE9001F8B52 /* FMGorillaView_iPad.xib */,
-				ACA995CC148ECCE9001F8B52 /* FMGorillaView_iPhone.xib */,
-				ACA995CD148ECCE9001F8B52 /* FMInputText.png */,
-				ACA995CE148ECCE9001F8B52 /* FMObjConnect.html */,
-				ACA995CF148ECCE9001F8B52 /* FMObjConnect.jslib */,
-				ACA995D0148ECCE9001F8B52 /* FMOpenScriptDialog_iPad.xib */,
-				ACA995D1148ECCE9001F8B52 /* FMOpenScriptDialog_iPhone.xib */,
-				ACA995D2148ECCE9001F8B52 /* FMPauseMovie.png */,
-				ACA995D3148ECCE9001F8B52 /* FMPlayMovie.png */,
-				ACA995D4148ECCE9001F8B52 /* FMQunitAPI.jslib */,
-				ACA995D5148ECCE9001F8B52 /* FMReturn.png */,
-				ACA995D6148ECCE9001F8B52 /* FMRotate.png */,
-				ACA995D7148ECCE9001F8B52 /* FMSaveScriptDialog_iPad.xib */,
-				ACA995D8148ECCE9001F8B52 /* FMSaveScriptDialog_iPhone.xib */,
-				ACA995D9148ECCE9001F8B52 /* FMTouch.png */,
-				ACA995DA148ECCE9001F8B52 /* FMWebDriver.png */,
-				ACA995DB148ECCE9001F8B52 /* FoneMonkey.jslib */,
-				ACA995DC148ECCE9001F8B52 /* gorilla-32.png */,
-				ACA995DD148ECCE9001F8B52 /* gorillalogic.png */,
-				ACA995DE148ECCE9001F8B52 /* icon_arrow_down.png */,
-				ACA995DF148ECCE9001F8B52 /* icon_arrow_up.png */,
-				ACA995E0148ECCE9001F8B52 /* icon_controls_3.png */,
-				ACA995E1148ECCE9001F8B52 /* icon_controls_4.png */,
-				ACA995E2148ECCE9001F8B52 /* icon_filming.png */,
-				ACA995E3148ECCE9001F8B52 /* icon_script.png */,
-				ACA995E4148ECCE9001F8B52 /* icon_timer.png */,
-				ACA995E5148ECCE9001F8B52 /* jquery-latest.jslib */,
-				ACA995E6148ECCE9001F8B52 /* Move.png */,
-				ACA995E7148ECCE9001F8B52 /* objc.template */,
-				ACA995E8148ECCE9001F8B52 /* optionsBg.png */,
-				ACA995E9148ECCE9001F8B52 /* optionsIcon.png */,
-				ACA995EA148ECCE9001F8B52 /* Pause.png */,
-				ACA995EB148ECCE9001F8B52 /* qunit.css */,
-				ACA995EC148ECCE9001F8B52 /* qunit.jslib */,
-				ACA995ED148ECCE9001F8B52 /* qunit.template */,
-				ACA995EE148ECCE9001F8B52 /* Scroll.png */,
-				ACA995EF148ECCE9001F8B52 /* ScrollDown.png */,
-				ACA995F0148ECCE9001F8B52 /* ScrollLeft.png */,
-				ACA995F1148ECCE9001F8B52 /* ScrollRight.png */,
-				ACA995F2148ECCE9001F8B52 /* ScrollUp.png */,
-				ACA995F3148ECCE9001F8B52 /* Select.png */,
-				ACA995F4148ECCE9001F8B52 /* shadow.png */,
-				ACA995F5148ECCE9001F8B52 /* shadowUp.png */,
-				ACA995F6148ECCE9001F8B52 /* Shake.png */,
-				ACA995F7148ECCE9001F8B52 /* Slide.png */,
-				ACA995F8148ECCE9001F8B52 /* Switch.png */,
-				ACA995F9148ECCE9001F8B52 /* Tab.png */,
-				ACA995FA148ECCE9001F8B52 /* TouchLeft.png */,
-				ACA995FB148ECCE9001F8B52 /* TouchRight.png */,
-				ACA995FC148ECCE9001F8B52 /* uiautomation.template */,
-				ACA995FD148ECCE9001F8B52 /* Verify.png */,
-				ACA995FE148ECCE9001F8B52 /* VScroll.png */,
-				ACA995FF148ECCE9001F8B52 /* WaitFor.png */,
+				ACA99712148EDFA0001F8B52 /* FMClear.png */,
+				ACA99713148EDFA0001F8B52 /* FMCommand.png */,
+				ACA99714148EDFA0001F8B52 /* FMCommandEditViewController_iPad.xib */,
+				ACA99715148EDFA0001F8B52 /* FMCommandEditViewController_iPhone.xib */,
+				ACA99716148EDFA0001F8B52 /* FMConsoleController_iPad.xib */,
+				ACA99717148EDFA0001F8B52 /* FMConsoleController_iPhone.xib */,
+				ACA99718148EDFA0001F8B52 /* FMDataDrive.png */,
+				ACA99719148EDFA0001F8B52 /* FMDelete.png */,
+				ACA9971A148EDFA0001F8B52 /* FMEdit.png */,
+				ACA9971B148EDFA0001F8B52 /* FMGetVariable.png */,
+				ACA9971C148EDFA0001F8B52 /* FMGorilla_iPad.xib */,
+				ACA9971D148EDFA0001F8B52 /* FMGorilla_iPhone.xib */,
+				ACA9971E148EDFA0001F8B52 /* FMGorillaView_iPad.xib */,
+				ACA9971F148EDFA0001F8B52 /* FMGorillaView_iPhone.xib */,
+				ACA99720148EDFA0001F8B52 /* FMInputText.png */,
+				ACA99721148EDFA0001F8B52 /* FMObjConnect.html */,
+				ACA99722148EDFA0001F8B52 /* FMObjConnect.jslib */,
+				ACA99723148EDFA0001F8B52 /* FMOpenScriptDialog_iPad.xib */,
+				ACA99724148EDFA0001F8B52 /* FMOpenScriptDialog_iPhone.xib */,
+				ACA99725148EDFA0001F8B52 /* FMPauseMovie.png */,
+				ACA99726148EDFA0001F8B52 /* FMPlayMovie.png */,
+				ACA99727148EDFA0001F8B52 /* FMQunitAPI.jslib */,
+				ACA99728148EDFA0001F8B52 /* FMReturn.png */,
+				ACA99729148EDFA0001F8B52 /* FMRotate.png */,
+				ACA9972A148EDFA0001F8B52 /* FMSaveScriptDialog_iPad.xib */,
+				ACA9972B148EDFA0001F8B52 /* FMSaveScriptDialog_iPhone.xib */,
+				ACA9972C148EDFA0001F8B52 /* FMTouch.png */,
+				ACA9972D148EDFA0001F8B52 /* FMWebDriver.png */,
+				ACA9972E148EDFA0001F8B52 /* FoneMonkey.jslib */,
+				ACA9972F148EDFA0001F8B52 /* gorilla-32.png */,
+				ACA99730148EDFA0001F8B52 /* gorillalogic.png */,
+				ACA99731148EDFA0001F8B52 /* icon_arrow_down.png */,
+				ACA99732148EDFA0001F8B52 /* icon_arrow_up.png */,
+				ACA99733148EDFA0001F8B52 /* icon_controls_3.png */,
+				ACA99734148EDFA0001F8B52 /* icon_controls_4.png */,
+				ACA99735148EDFA0001F8B52 /* icon_filming.png */,
+				ACA99736148EDFA0001F8B52 /* icon_script.png */,
+				ACA99737148EDFA0001F8B52 /* icon_timer.png */,
+				ACA99738148EDFA0001F8B52 /* jquery-latest.jslib */,
+				ACA99739148EDFA0001F8B52 /* Move.png */,
+				ACA9973A148EDFA0001F8B52 /* objc.template */,
+				ACA9973B148EDFA0001F8B52 /* optionsBg.png */,
+				ACA9973C148EDFA0001F8B52 /* optionsIcon.png */,
+				ACA9973D148EDFA0001F8B52 /* Pause.png */,
+				ACA9973E148EDFA0001F8B52 /* qunit.css */,
+				ACA9973F148EDFA0001F8B52 /* qunit.jslib */,
+				ACA99740148EDFA0001F8B52 /* qunit.template */,
+				ACA99741148EDFA0001F8B52 /* Scroll.png */,
+				ACA99742148EDFA0001F8B52 /* ScrollDown.png */,
+				ACA99743148EDFA0001F8B52 /* ScrollLeft.png */,
+				ACA99744148EDFA0001F8B52 /* ScrollRight.png */,
+				ACA99745148EDFA0001F8B52 /* ScrollUp.png */,
+				ACA99746148EDFA0001F8B52 /* Select.png */,
+				ACA99747148EDFA0001F8B52 /* shadow.png */,
+				ACA99748148EDFA0001F8B52 /* shadowUp.png */,
+				ACA99749148EDFA0001F8B52 /* Shake.png */,
+				ACA9974A148EDFA0001F8B52 /* Slide.png */,
+				ACA9974B148EDFA0001F8B52 /* Switch.png */,
+				ACA9974C148EDFA0001F8B52 /* Tab.png */,
+				ACA9974D148EDFA0001F8B52 /* TouchLeft.png */,
+				ACA9974E148EDFA0001F8B52 /* TouchRight.png */,
+				ACA9974F148EDFA0001F8B52 /* uiautomation.template */,
+				ACA99750148EDFA0001F8B52 /* Verify.png */,
+				ACA99751148EDFA0001F8B52 /* VScroll.png */,
+				ACA99752148EDFA0001F8B52 /* WaitFor.png */,
 			);
 			path = resources;
 			sourceTree = "<group>";
@@ -881,77 +879,77 @@
 				ACA9958B148ECC9C001F8B52 /* bookmarkImageHighlighted.png in Resources */,
 				ACA9958C148ECC9C001F8B52 /* toolbarBackground.png in Resources */,
 				ACA9958D148ECC9C001F8B52 /* segmentedBackground.png in Resources */,
-				ACA99600148ECCE9001F8B52 /* iphonesim in Resources */,
-				ACA99601148ECCE9001F8B52 /* COPYRIGHT in Resources */,
-				ACA99602148ECCE9001F8B52 /* index.html in Resources */,
-				ACA99603148ECCE9001F8B52 /* extralibs.zip in Resources */,
-				ACA99604148ECCE9001F8B52 /* FoneMonkeyRunner.plist in Resources */,
-				ACA99607148ECCE9001F8B52 /* ReleaseNotes.html in Resources */,
-				ACA99608148ECCE9001F8B52 /* FMClear.png in Resources */,
-				ACA99609148ECCE9001F8B52 /* FMCommand.png in Resources */,
-				ACA9960A148ECCE9001F8B52 /* FMCommandEditViewController_iPad.xib in Resources */,
-				ACA9960B148ECCE9001F8B52 /* FMCommandEditViewController_iPhone.xib in Resources */,
-				ACA9960C148ECCE9001F8B52 /* FMConsoleController_iPad.xib in Resources */,
-				ACA9960D148ECCE9001F8B52 /* FMConsoleController_iPhone.xib in Resources */,
-				ACA9960E148ECCE9001F8B52 /* FMDataDrive.png in Resources */,
-				ACA9960F148ECCE9001F8B52 /* FMDelete.png in Resources */,
-				ACA99610148ECCE9001F8B52 /* FMEdit.png in Resources */,
-				ACA99611148ECCE9001F8B52 /* FMGetVariable.png in Resources */,
-				ACA99612148ECCE9001F8B52 /* FMGorilla_iPad.xib in Resources */,
-				ACA99613148ECCE9001F8B52 /* FMGorilla_iPhone.xib in Resources */,
-				ACA99614148ECCE9001F8B52 /* FMGorillaView_iPad.xib in Resources */,
-				ACA99615148ECCE9001F8B52 /* FMGorillaView_iPhone.xib in Resources */,
-				ACA99616148ECCE9001F8B52 /* FMInputText.png in Resources */,
-				ACA99617148ECCE9001F8B52 /* FMObjConnect.html in Resources */,
-				ACA99618148ECCE9001F8B52 /* FMObjConnect.jslib in Resources */,
-				ACA99619148ECCE9001F8B52 /* FMOpenScriptDialog_iPad.xib in Resources */,
-				ACA9961A148ECCE9001F8B52 /* FMOpenScriptDialog_iPhone.xib in Resources */,
-				ACA9961B148ECCE9001F8B52 /* FMPauseMovie.png in Resources */,
-				ACA9961C148ECCE9001F8B52 /* FMPlayMovie.png in Resources */,
-				ACA9961D148ECCE9001F8B52 /* FMQunitAPI.jslib in Resources */,
-				ACA9961E148ECCE9001F8B52 /* FMReturn.png in Resources */,
-				ACA9961F148ECCE9001F8B52 /* FMRotate.png in Resources */,
-				ACA99620148ECCE9001F8B52 /* FMSaveScriptDialog_iPad.xib in Resources */,
-				ACA99621148ECCE9001F8B52 /* FMSaveScriptDialog_iPhone.xib in Resources */,
-				ACA99622148ECCE9001F8B52 /* FMTouch.png in Resources */,
-				ACA99623148ECCE9001F8B52 /* FMWebDriver.png in Resources */,
-				ACA99624148ECCE9001F8B52 /* FoneMonkey.jslib in Resources */,
-				ACA99625148ECCE9001F8B52 /* gorilla-32.png in Resources */,
-				ACA99626148ECCE9001F8B52 /* gorillalogic.png in Resources */,
-				ACA99627148ECCE9001F8B52 /* icon_arrow_down.png in Resources */,
-				ACA99628148ECCE9001F8B52 /* icon_arrow_up.png in Resources */,
-				ACA99629148ECCE9001F8B52 /* icon_controls_3.png in Resources */,
-				ACA9962A148ECCE9001F8B52 /* icon_controls_4.png in Resources */,
-				ACA9962B148ECCE9001F8B52 /* icon_filming.png in Resources */,
-				ACA9962C148ECCE9001F8B52 /* icon_script.png in Resources */,
-				ACA9962D148ECCE9001F8B52 /* icon_timer.png in Resources */,
-				ACA9962E148ECCE9001F8B52 /* jquery-latest.jslib in Resources */,
-				ACA9962F148ECCE9001F8B52 /* Move.png in Resources */,
-				ACA99630148ECCE9001F8B52 /* objc.template in Resources */,
-				ACA99631148ECCE9001F8B52 /* optionsBg.png in Resources */,
-				ACA99632148ECCE9001F8B52 /* optionsIcon.png in Resources */,
-				ACA99633148ECCE9001F8B52 /* Pause.png in Resources */,
-				ACA99634148ECCE9001F8B52 /* qunit.css in Resources */,
-				ACA99635148ECCE9001F8B52 /* qunit.jslib in Resources */,
-				ACA99636148ECCE9001F8B52 /* qunit.template in Resources */,
-				ACA99637148ECCE9001F8B52 /* Scroll.png in Resources */,
-				ACA99638148ECCE9001F8B52 /* ScrollDown.png in Resources */,
-				ACA99639148ECCE9001F8B52 /* ScrollLeft.png in Resources */,
-				ACA9963A148ECCE9001F8B52 /* ScrollRight.png in Resources */,
-				ACA9963B148ECCE9001F8B52 /* ScrollUp.png in Resources */,
-				ACA9963C148ECCE9001F8B52 /* Select.png in Resources */,
-				ACA9963D148ECCE9001F8B52 /* shadow.png in Resources */,
-				ACA9963E148ECCE9001F8B52 /* shadowUp.png in Resources */,
-				ACA9963F148ECCE9001F8B52 /* Shake.png in Resources */,
-				ACA99640148ECCE9001F8B52 /* Slide.png in Resources */,
-				ACA99641148ECCE9001F8B52 /* Switch.png in Resources */,
-				ACA99642148ECCE9001F8B52 /* Tab.png in Resources */,
-				ACA99643148ECCE9001F8B52 /* TouchLeft.png in Resources */,
-				ACA99644148ECCE9001F8B52 /* TouchRight.png in Resources */,
-				ACA99645148ECCE9001F8B52 /* uiautomation.template in Resources */,
-				ACA99646148ECCE9001F8B52 /* Verify.png in Resources */,
-				ACA99647148ECCE9001F8B52 /* VScroll.png in Resources */,
-				ACA99648148ECCE9001F8B52 /* WaitFor.png in Resources */,
+				ACA99753148EDFA0001F8B52 /* iphonesim in Resources */,
+				ACA99754148EDFA0001F8B52 /* COPYRIGHT in Resources */,
+				ACA99755148EDFA0001F8B52 /* index.html in Resources */,
+				ACA99756148EDFA0001F8B52 /* extralibs.zip in Resources */,
+				ACA99757148EDFA0001F8B52 /* FoneMonkeyRunner.plist in Resources */,
+				ACA9975A148EDFA0001F8B52 /* ReleaseNotes.html in Resources */,
+				ACA9975B148EDFA0001F8B52 /* FMClear.png in Resources */,
+				ACA9975C148EDFA0001F8B52 /* FMCommand.png in Resources */,
+				ACA9975D148EDFA0001F8B52 /* FMCommandEditViewController_iPad.xib in Resources */,
+				ACA9975E148EDFA0001F8B52 /* FMCommandEditViewController_iPhone.xib in Resources */,
+				ACA9975F148EDFA0001F8B52 /* FMConsoleController_iPad.xib in Resources */,
+				ACA99760148EDFA0001F8B52 /* FMConsoleController_iPhone.xib in Resources */,
+				ACA99761148EDFA0001F8B52 /* FMDataDrive.png in Resources */,
+				ACA99762148EDFA0001F8B52 /* FMDelete.png in Resources */,
+				ACA99763148EDFA0001F8B52 /* FMEdit.png in Resources */,
+				ACA99764148EDFA0001F8B52 /* FMGetVariable.png in Resources */,
+				ACA99765148EDFA0001F8B52 /* FMGorilla_iPad.xib in Resources */,
+				ACA99766148EDFA0001F8B52 /* FMGorilla_iPhone.xib in Resources */,
+				ACA99767148EDFA0001F8B52 /* FMGorillaView_iPad.xib in Resources */,
+				ACA99768148EDFA0001F8B52 /* FMGorillaView_iPhone.xib in Resources */,
+				ACA99769148EDFA0001F8B52 /* FMInputText.png in Resources */,
+				ACA9976A148EDFA0001F8B52 /* FMObjConnect.html in Resources */,
+				ACA9976B148EDFA0001F8B52 /* FMObjConnect.jslib in Resources */,
+				ACA9976C148EDFA0001F8B52 /* FMOpenScriptDialog_iPad.xib in Resources */,
+				ACA9976D148EDFA0001F8B52 /* FMOpenScriptDialog_iPhone.xib in Resources */,
+				ACA9976E148EDFA0001F8B52 /* FMPauseMovie.png in Resources */,
+				ACA9976F148EDFA0001F8B52 /* FMPlayMovie.png in Resources */,
+				ACA99770148EDFA0001F8B52 /* FMQunitAPI.jslib in Resources */,
+				ACA99771148EDFA0001F8B52 /* FMReturn.png in Resources */,
+				ACA99772148EDFA0001F8B52 /* FMRotate.png in Resources */,
+				ACA99773148EDFA0001F8B52 /* FMSaveScriptDialog_iPad.xib in Resources */,
+				ACA99774148EDFA0001F8B52 /* FMSaveScriptDialog_iPhone.xib in Resources */,
+				ACA99775148EDFA0001F8B52 /* FMTouch.png in Resources */,
+				ACA99776148EDFA0001F8B52 /* FMWebDriver.png in Resources */,
+				ACA99777148EDFA0001F8B52 /* FoneMonkey.jslib in Resources */,
+				ACA99778148EDFA0001F8B52 /* gorilla-32.png in Resources */,
+				ACA99779148EDFA0001F8B52 /* gorillalogic.png in Resources */,
+				ACA9977A148EDFA0001F8B52 /* icon_arrow_down.png in Resources */,
+				ACA9977B148EDFA0001F8B52 /* icon_arrow_up.png in Resources */,
+				ACA9977C148EDFA0001F8B52 /* icon_controls_3.png in Resources */,
+				ACA9977D148EDFA0001F8B52 /* icon_controls_4.png in Resources */,
+				ACA9977E148EDFA0001F8B52 /* icon_filming.png in Resources */,
+				ACA9977F148EDFA0001F8B52 /* icon_script.png in Resources */,
+				ACA99780148EDFA0001F8B52 /* icon_timer.png in Resources */,
+				ACA99781148EDFA0001F8B52 /* jquery-latest.jslib in Resources */,
+				ACA99782148EDFA0001F8B52 /* Move.png in Resources */,
+				ACA99783148EDFA0001F8B52 /* objc.template in Resources */,
+				ACA99784148EDFA0001F8B52 /* optionsBg.png in Resources */,
+				ACA99785148EDFA0001F8B52 /* optionsIcon.png in Resources */,
+				ACA99786148EDFA0001F8B52 /* Pause.png in Resources */,
+				ACA99787148EDFA0001F8B52 /* qunit.css in Resources */,
+				ACA99788148EDFA0001F8B52 /* qunit.jslib in Resources */,
+				ACA99789148EDFA0001F8B52 /* qunit.template in Resources */,
+				ACA9978A148EDFA0001F8B52 /* Scroll.png in Resources */,
+				ACA9978B148EDFA0001F8B52 /* ScrollDown.png in Resources */,
+				ACA9978C148EDFA0001F8B52 /* ScrollLeft.png in Resources */,
+				ACA9978D148EDFA0001F8B52 /* ScrollRight.png in Resources */,
+				ACA9978E148EDFA0001F8B52 /* ScrollUp.png in Resources */,
+				ACA9978F148EDFA0001F8B52 /* Select.png in Resources */,
+				ACA99790148EDFA0001F8B52 /* shadow.png in Resources */,
+				ACA99791148EDFA0001F8B52 /* shadowUp.png in Resources */,
+				ACA99792148EDFA0001F8B52 /* Shake.png in Resources */,
+				ACA99793148EDFA0001F8B52 /* Slide.png in Resources */,
+				ACA99794148EDFA0001F8B52 /* Switch.png in Resources */,
+				ACA99795148EDFA0001F8B52 /* Tab.png in Resources */,
+				ACA99796148EDFA0001F8B52 /* TouchLeft.png in Resources */,
+				ACA99797148EDFA0001F8B52 /* TouchRight.png in Resources */,
+				ACA99798148EDFA0001F8B52 /* uiautomation.template in Resources */,
+				ACA99799148EDFA0001F8B52 /* Verify.png in Resources */,
+				ACA9979A148EDFA0001F8B52 /* VScroll.png in Resources */,
+				ACA9979B148EDFA0001F8B52 /* WaitFor.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1139,6 +1137,10 @@
 				GCC_WARN_UNUSED_VALUE = NO;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				INFOPLIST_FILE = Info.plist;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../../../Downloads/FoneMonkey/lib\"",
+				);
 				PRODUCT_NAME = UICatalog;
 				SDKROOT = iphoneos;
 			};
@@ -1156,6 +1158,10 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				INFOPLIST_FILE = Info.plist;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../../../Downloads/FoneMonkey/lib\"",
+				);
 				PRODUCT_NAME = UICatalog;
 				SDKROOT = iphoneos;
 			};
@@ -1183,6 +1189,7 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/../FoneMonkey/lib\"",
+					"\"$(SRCROOT)/../../../Downloads/FoneMonkey/lib\"",
 				);
 				OTHER_LDFLAGS = "-all_load";
 				PRODUCT_NAME = "UICatalog copy";
@@ -1209,6 +1216,7 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/../FoneMonkey/lib\"",
+					"\"$(SRCROOT)/../../../Downloads/FoneMonkey/lib\"",
 				);
 				OTHER_LDFLAGS = "-all_load";
 				PRODUCT_NAME = "UICatalog copy";
